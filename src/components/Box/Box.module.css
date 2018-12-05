@@ -1,0 +1,15 @@
+.box {
+  border: 1px solid #5B6B82;
+  width: 250px;
+  height: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 8px 0 rgba(104, 115, 122, .25);
+}
+
+.isRecommended {
+  border: 1px solid green;
+  height: 400px;
+}
